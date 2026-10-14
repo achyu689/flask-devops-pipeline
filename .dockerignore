@@ -1,0 +1,8 @@
+.git
+.github
+tests
+k8s
+__pycache__
+*.pyc
+.venv
+README.md
